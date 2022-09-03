@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://brilliant-fox-4b9ccc.netlify.app/
+
 ## Project setup
 
 ```
